@@ -24,6 +24,21 @@ This project analyzes Amazon product review data using Python, MySQL, and Power 
 - Positive reviews were higher than negative reviews.
 - Some categories showed better customer satisfaction.
 
+## Project Workflow
+
+Dataset Collection
+↓
+Data Cleaning using Python
+↓
+Data Visualization
+↓
+Python to MySQL Connection
+↓
+SQL Analysis
+↓
+Power BI Dashboard Creation
+↓
+Business Insights
 ## Dashboard Features
 - KPI Cards
 - Rating Distribution
